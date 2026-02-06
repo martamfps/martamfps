@@ -37,10 +37,10 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas (Senac EAD) e participo
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [analise-churn-clientes](https://github.com/seu-usuario/analise-churn-clientes) | Análise exploratória de churn em base SaaS B2B com identificação de padrões e segmentos de risco | Python, pandas, matplotlib, SQL |
-| [pipeline-consolidacao-dados](https://github.com/seu-usuario/pipeline-consolidacao-dados) | Pipeline ETL para unificação, padronização e consolidação de dados de vendas | Python, pandas |
-| [dashboard-kpis-comerciais](https://github.com/seu-usuario/dashboard-kpis-comerciais) | Dashboard interativo de KPIs comerciais com evolução de MRR, churn e eficiência | Python, Streamlit, SQLite, SQL |
-| [painel-viagens-corporativas](https://github.com/seu-usuario/painel-viagens-corporativas) | Painel de gestão de despesas de viagens corporativas com compliance e indicadores | Python, Streamlit, SQLite, SQL, matplotlib |
+| [analise-churn-clientes](https://github.com/martamfps/analise-churn-clientes) | Análise exploratória de churn em base SaaS B2B com identificação de padrões e segmentos de risco | Python, pandas, matplotlib, SQL |
+| [pipeline-consolidacao-dados](https://github.com/martamfps/pipeline-consolidacao-dados) | Pipeline ETL para unificação, padronização e consolidação de dados de vendas | Python, pandas |
+| [dashboard-kpis-comerciais](https://github.com/martamfps/dashboard-kpis-comerciais) | Dashboard interativo de KPIs comerciais com evolução de MRR, churn e eficiência | Python, Streamlit, SQLite, SQL |
+| [painel-viagens-corporativas](https://github.com/martamfps/painel-viagens-corporativas) | Painel de gestão de despesas de viagens corporativas com compliance e indicadores | Python, Streamlit, SQLite, SQL, matplotlib |
 
 ## 📚 Formação
 
