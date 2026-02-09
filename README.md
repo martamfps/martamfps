@@ -1,4 +1,4 @@
-# Olá! Eu sou a Marta Santos 👋
+# Olá! Eu sou a Marta 👋
 
 **Analista de Dados em Formação | Storytelling Visual + Business Intelligence**
 
